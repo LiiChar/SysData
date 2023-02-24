@@ -1,0 +1,20 @@
+{
+  "name": "systemdata",
+  "version": "1.0.0",
+  "main": "andex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "node-powershell": "^5.0.1",
+    "nodemon": "^2.0.20",
+    "random-date-generator": "^1.0.2",
+    "systeminformation": "^5.17.9",
+    "uuid": "^9.0.0"
+  },
+  "keywords": [],
+  "description": ""
+}
